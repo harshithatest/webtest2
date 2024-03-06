@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T00:10:21 IST" name="Default suite" finished-at="2024-02-23T00:10:21 IST" duration-ms="60">
+    <groups>
+      <group name="reg">
+        <method signature="AnnotationClass.met1()[pri:3, instance:TestNGGroup.AnnotationClass@fba92d3]" name="met1" class="TestNGGroup.AnnotationClass"/>
+        <method signature="AnnotationClass.met2()[pri:1, instance:TestNGGroup.AnnotationClass@fba92d3]" name="met2" class="TestNGGroup.AnnotationClass"/>
+      </group> <!-- reg -->
+      <group name="smoke">
+        <method signature="AnnotationClass.met1()[pri:3, instance:TestNGGroup.AnnotationClass@fba92d3]" name="met1" class="TestNGGroup.AnnotationClass"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-02-23T00:10:21 IST" name="Default test" finished-at="2024-02-23T00:10:21 IST" duration-ms="60">
+      <class name="TestNGGroup.AnnotationClass">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforesuite" finished-at="2024-02-23T00:10:21 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforetest" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforeClass" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforemethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="met3()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="met3" finished-at="2024-02-23T00:10:21 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- met3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftermethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforemethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="met2()[pri:1, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="met2" finished-at="2024-02-23T00:10:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- met2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftermethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="met4()[pri:2, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="met4" finished-at="2024-02-23T00:10:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- met4 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforemethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftermethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="beforemethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="met1()[pri:3, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="met1" finished-at="2024-02-23T00:10:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- met1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftermethod" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="afterClass" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftertest" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:TestNGGroup.AnnotationClass@fba92d3]" started-at="2024-02-23T00:10:21 IST" name="aftersuite" finished-at="2024-02-23T00:10:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- TestNGGroup.AnnotationClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
